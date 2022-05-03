@@ -11,14 +11,14 @@ class Footer extends Component {
                             <div className='col'>
                                 <a
                                     className='social-media-link'
-                                    href='https://www.linkedin.com/in/naurae/'>
+                                    href='https://www.linkedin.com/in/nnase/'>
                                     <i className='fab fa-linkedin-in'/>
                                 </a>
                             </div>
                             <div className='col'>
                                 <a
                                     className='social-media-link'
-                                    href='https://github.com/nauranand'>
+                                    href='https://github.com/nnasnand'>
                                     <i className='fab fa-github'/>
                                 </a>
                             </div>

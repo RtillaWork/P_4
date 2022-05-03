@@ -7,15 +7,15 @@ export default class About extends Component {
                 <section id='about'>
                     <div className='container mb-5'>
                         <h1 className=' display-3 mb-0'>
-                            Naura
+                            RtillaWork
                             <span className='text-dark'>E.</span>
                         </h1>
                         <div className='subheading text-info mb-3'>
                             Edmonton, Alberta, Canada · (780) 087-8078 ·
                             <a
-                                href='mailto:naelchha@gmail.com'
+                                href='mailto:nnasnn@gmail.com'
                                 className='subheading text-info'>
-                                email: naelchha at gmail.com
+                                email: nnasnn at gmail.com
                             </a>
                         </div>
                         <hr className='m-1'/>

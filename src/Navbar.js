@@ -9,7 +9,7 @@ export default class Navbar extends Component {
                 aria-label='Portfolio for NE'>
                 <div className='container-fluid'>
                     <NavLink className='navbar-brand' href='#' to='/'>
-                        Naura Portfolio
+                        RtillaWork Portfolio
                     </NavLink>
                     <button
                         className='navbar-toggler'
