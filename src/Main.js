@@ -1,1 +1,2 @@
-export default function Main(props) {}
+export default function Main(props) {
+}

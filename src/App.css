@@ -1,11 +1,11 @@
 .app {
-  /* text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
-  box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5); */
-  min-height: 100vh;
+    /* text-shadow: 0 0.05rem 0.1rem rgba(0, 0, 0, 0.5);
+    box-shadow: inset 0 0 5rem rgba(0, 0, 0, 0.5); */
+    min-height: 100vh;
 }
 
 .navbar {
-  background-color: orangered !important;
+    background-color: orangered !important;
 }
 
 /* .nav-item {
@@ -27,40 +27,40 @@
 } */
 
 .cover-container {
-  /* background-color: orangered; */
-  /* max-width: 90vw; */
+    /* background-color: orangered; */
+    /* max-width: 90vw; */
 }
 
 #about {
-  background-color: darkslategray;
+    background-color: darkslategray;
 }
 
 #skills {
-  background-color: darkslateblue;
+    background-color: darkslateblue;
 }
 
 #experience {
-  background-color: rebeccapurple;
+    background-color: rebeccapurple;
 }
 
 #education {
-  background-color: purple;
+    background-color: purple;
 }
 
 #interests {
-  background-color: darkorange;
+    background-color: darkorange;
 }
 
 #project1 {
-  background-color: greenyellow;
+    background-color: greenyellow;
 }
 
 .social-media-link {
-  color: orangered;
+    color: orangered;
 }
 
 i {
-  font-size: xx-large;
+    font-size: xx-large;
 }
 
 /* .App {
